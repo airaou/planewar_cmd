@@ -2,3 +2,5 @@
 [Oo]bj/
 Makefile.win
 *.layout
+*.exe
+
